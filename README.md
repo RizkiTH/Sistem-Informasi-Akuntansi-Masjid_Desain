@@ -1,5 +1,5 @@
-# Sistem-Informasi-Akuntansi-Masjid_Desain
+# Sistem-Informasi-Akuntansi-Masjid_Design
 
-Repository buat nyimpen dokumen dan desain
+This repository is for saving the documentation.
 
-semua file dokumentasi dan desain.
+all documentation file and design file.
