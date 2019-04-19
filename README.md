@@ -3,5 +3,3 @@
 Repository buat nyimpen dokumen dan desain
 
 semua file dokumentasi dan desain.
-
-done
