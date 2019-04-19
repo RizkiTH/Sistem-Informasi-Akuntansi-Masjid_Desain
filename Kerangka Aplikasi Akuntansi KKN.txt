@@ -1,0 +1,20 @@
+===================Kerangka Proyek Akuntansi KKN:===================
+
+pas pertama kali install app
+-------------------------------------
+jadi pas pertama kli buka aplikasi -> app minta file lisensi ->menampilkan wizard form profil -> menampilkan wizard form aset -> menampilkan wizard form password sekaligus ngasih peringatan buat nyimpen file license nya -> baru abis itu kita suguhi ama menu 2 app itu
+-------------------------------------
+
+
+
+pas pertama kali buka app
+-------------------------------------
+Di app nya kan ada 2 jadinya, yg buat liat laporan doang sama buat buat input transaksi. Nah masing masing fungsi itu dikasih password. Gausah pake user useran jadinya
+-------------------------------------
+
+
+
+lupa password
+-------------------------------------
+jadi nih dia kalo misalnya lupa, mencet tombol lupa password, trus nanti app nyuruh buat kita upload file txt atau masukin cd, abis itu dia ngeread ama nyocokin recovery code yg ada di database app, kalo cocok nanti dia bakal nampilin halaman buat edit pass
+-------------------------------------
