@@ -4,7 +4,7 @@ pas pertama kali install app
 -------------------------------------
 jadi pas pertama kli buka aplikasi -> app minta file lisensi ->menampilkan wizard form profil -> menampilkan wizard form aset -> menampilkan wizard form password sekaligus ngasih peringatan buat nyimpen file license nya -> baru abis itu kita suguhi ama menu 2 app itu
 -------------------------------------
-
+coba1
 
 
 pas pertama kali buka app
