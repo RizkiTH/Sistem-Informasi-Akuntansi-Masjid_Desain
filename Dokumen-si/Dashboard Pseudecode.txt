@@ -1,0 +1,17 @@
+Pseudecode Filter
+//ambil database tahun ini
+//bulan, tahun, filter penerimaan & sub
+//replace data yang udh direplace
+//bulan, tahun, filter penerimaan & sub ......(2)
+//replace data yang udh direplace ......(2)
+//......
+//tampilkan data pada chart
+
+Tabel Informasi terbanyak filter
+//database sum pertahun diambil
+//rangking 5 besar dalam tabel
+
+Card Pseudecode
+//Nominal dlm ribuan(000)
+//perbandingan dalam persen dengan bulan lalu
+
