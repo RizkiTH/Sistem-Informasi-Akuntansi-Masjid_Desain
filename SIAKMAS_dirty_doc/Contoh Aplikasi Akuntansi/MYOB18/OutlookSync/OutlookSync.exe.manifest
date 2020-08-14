@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity version="1.0.0.0" 
+
+       processorArchitecture="X86"
+
+       name="OutlookSync.exe"
+
+       type="win32" />
+
+  <description>Manifest for OutlookSync</description>
+
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+
+    <security>
+
+      <requestedPrivileges>
+
+         <requestedExecutionLevel 
+			level="HighestAvailable" 
+		 
+			uiAccess="false"/>
+
+       </requestedPrivileges>
+
+    </security>
+
+  </trustInfo>
+
+</assembly>
